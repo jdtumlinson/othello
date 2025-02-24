@@ -131,5 +131,5 @@ board_size = 6
 # searchVSdepth()
 # quality()
 
-# main()
+main()
 #python3 -m GameDriver alphabeta alphabeta 4 4 0 0 0 0 12
